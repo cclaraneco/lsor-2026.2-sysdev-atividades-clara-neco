@@ -1,7 +1,7 @@
 Aula 01 — Introdução à Virtualização e Instalação do Ubuntu Server
 1. Identificação
-Aluno: SEU NOME COMPLETO
-Matrícula: SUA MATRÍCULA
+Aluno: MARIA CLARA NECO DA SILVA
+Matrícula: 2024333731
 Curso: Técnico Integrado em Desenvolvimento de Sistemas
 Instituição: IFAL — Campus Maceió
 Disciplina: Laboratório de Sistemas Operacionais e Redes (LSOR)
