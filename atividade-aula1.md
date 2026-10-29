@@ -6,7 +6,7 @@ Curso: Técnico Integrado em Desenvolvimento de Sistemas
 Instituição: IFAL — Campus Maceió
 Disciplina: Laboratório de Sistemas Operacionais e Redes (LSOR)
 Semestre: 2026.02
-Data da prática: PREENCHA A DATA
+Data da prática: 26 de out.
 2. Objetivo
 
 Compreender os conceitos básicos de virtualização, criar uma máquina virtual no VirtualBox e instalar o Ubuntu Server 26.04 LTS com configurações de hardware e armazenamento definidas no roteiro da aula.
