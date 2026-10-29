@@ -6,7 +6,7 @@ Curso: Técnico Integrado em Desenvolvimento de Sistemas
 Instituição: IFAL — Campus Maceió
 Disciplina: Laboratório de Sistemas Operacionais e Redes (LSOR)
 Semestre: 2026.02
-Data da prática: PREENCHA A DATA
+Data da prática: 26 de out.
 2. Objetivo
 
 Praticar a administração de usuários e grupos no Ubuntu Server, configurar permissões de arquivos e diretórios e verificar como o Linux controla o acesso aos recursos do sistema.
